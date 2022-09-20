@@ -1,0 +1,15 @@
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\bin\Debug\net6.0\Number List.exe
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\bin\Debug\net6.0\Number List.deps.json
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\bin\Debug\net6.0\Number List.runtimeconfig.json
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\bin\Debug\net6.0\Number List.dll
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\bin\Debug\net6.0\Number List.pdb
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\obj\Debug\net6.0\Number List.csproj.AssemblyReference.cache
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\obj\Debug\net6.0\Number List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\obj\Debug\net6.0\Number List.AssemblyInfoInputs.cache
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\obj\Debug\net6.0\Number List.AssemblyInfo.cs
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\obj\Debug\net6.0\Number List.csproj.CoreCompileInputs.cache
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\obj\Debug\net6.0\Number List.dll
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\obj\Debug\net6.0\refint\Number List.dll
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\obj\Debug\net6.0\Number List.pdb
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\obj\Debug\net6.0\Number List.genruntimeconfig.cache
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Number List\obj\Debug\net6.0\ref\Number List.dll

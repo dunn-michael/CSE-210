@@ -1,0 +1,15 @@
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\bin\Debug\net6.0\Random Number.exe
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\bin\Debug\net6.0\Random Number.deps.json
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\bin\Debug\net6.0\Random Number.runtimeconfig.json
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\bin\Debug\net6.0\Random Number.dll
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\bin\Debug\net6.0\Random Number.pdb
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\obj\Debug\net6.0\Random Number.csproj.AssemblyReference.cache
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\obj\Debug\net6.0\Random Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\obj\Debug\net6.0\Random Number.AssemblyInfoInputs.cache
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\obj\Debug\net6.0\Random Number.AssemblyInfo.cs
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\obj\Debug\net6.0\Random Number.csproj.CoreCompileInputs.cache
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\obj\Debug\net6.0\Random Number.dll
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\obj\Debug\net6.0\refint\Random Number.dll
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\obj\Debug\net6.0\Random Number.pdb
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\obj\Debug\net6.0\Random Number.genruntimeconfig.cache
+C:\Users\dunnm\OneDrive\Desktop\BYUI\Fall 2022\CSE 210\Random Number\obj\Debug\net6.0\ref\Random Number.dll
